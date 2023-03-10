@@ -1,0 +1,16 @@
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\bin\Debug\net5.0\seminar8.exe
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\bin\Debug\net5.0\seminar8.deps.json
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\bin\Debug\net5.0\seminar8.runtimeconfig.json
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\bin\Debug\net5.0\seminar8.runtimeconfig.dev.json
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\bin\Debug\net5.0\seminar8.dll
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\bin\Debug\net5.0\ref\seminar8.dll
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\bin\Debug\net5.0\seminar8.pdb
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\obj\Debug\net5.0\seminar8.csproj.AssemblyReference.cache
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\obj\Debug\net5.0\seminar8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\obj\Debug\net5.0\seminar8.AssemblyInfoInputs.cache
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\obj\Debug\net5.0\seminar8.AssemblyInfo.cs
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\obj\Debug\net5.0\seminar8.csproj.CoreCompileInputs.cache
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\obj\Debug\net5.0\seminar8.dll
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\obj\Debug\net5.0\ref\seminar8.dll
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\obj\Debug\net5.0\seminar8.pdb
+C:\Users\Zoya\Documents\geekbrains\fahsghds\seminar8\obj\Debug\net5.0\seminar8.genruntimeconfig.cache
